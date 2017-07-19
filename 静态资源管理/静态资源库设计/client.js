@@ -9,7 +9,7 @@ http.createServer(function (req,res) {
     }else if(pathname=='/index'||pathname=='/'){
         goIndex(res)
     }else{
-        staticModule.getStaticFile(pathname,res)
+        staticModule.getStaticFile(pathname,res,req)
     }
 
 }).listen(1337)
