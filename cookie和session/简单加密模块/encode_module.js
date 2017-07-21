@@ -1,6 +1,6 @@
 /*外部调用模块*/
 /*拥有两个方法*/
-var AdapterClass=require('./adapter.js');
+var AdapterClass=require('./adapter');
 exports.encode=function () {
     // 获取参数中加密模块名
   var encodeModule=arguments[0]?arguments[0]:null,
