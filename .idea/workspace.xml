@@ -2,968 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e53ba72-dfee-4a7f-8e96-9e7349496d8f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/dist/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/action_after_build.stamp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Extensions.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Group.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/HTTPSocket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Hub.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Networking.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Node.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/Socket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/WebSocket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/obj.target/uws/src/addon.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/uws.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_darwin_46.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_darwin_47.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_darwin_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_darwin_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_linux_46.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_linux_47.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_linux_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_linux_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_linux_57.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_win32_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws_win32_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/action_after_build.stamp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Extensions.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Group.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/HTTPSocket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Hub.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Networking.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Node.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/Socket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/WebSocket.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/obj.target/uws/src/addon.o" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/uws.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_darwin_46.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_darwin_47.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_darwin_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_darwin_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_linux_46.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_linux_47.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_linux_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_linux_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_linux_57.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_win32_48.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws_win32_51.node" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/dist/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/.bin/acorn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/.bin/cleancss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/.bin/jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/.bin/mkdirp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/.bin/uglifyjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/mime-types/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/lib/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/node_modules/negotiator/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/accepts/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/.tern-project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/bin/acorn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/bin/build-acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/bin/generate-identifier-regex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/bin/update_authors.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/dist/acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/dist/acorn_loose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/dist/walk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/bin/acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/identifier.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/locutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/acorn_loose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/parseutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/statement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/loose/tokenize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/lval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/parseutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/statement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/tokencontext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/tokenize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/tokentype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/walk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/acorn/src/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/LICENCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/after/test/after-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/align-text/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/align-text/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/align-text/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/align-text/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/amdefine/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/amdefine/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/amdefine/amdefine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/amdefine/intercept.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/amdefine/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/asap/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/asap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/asap/asap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/asap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/backo2/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/lib/base64id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/base64id/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/.zuul.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/blob/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/callsite/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/camelcase/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/camelcase/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/camelcase/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/camelcase/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/bin/cleancss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/colors/hex-name-shortener.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/colors/hsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/colors/rgb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/imports/inliner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/break-up.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/can-override.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/clone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/compactable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/every-combination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/has-inherit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/invalid-property-error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/optimizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/override-compactor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/populate-components.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/remove-unused.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/restore-from-optimizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/restore.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/shorthand-compactor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/validator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/vendor-prefixes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/properties/wrap-for-optimizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/advanced.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/clean-up.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/extractor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/is-special.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/merge-adjacent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/merge-media-queries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-body.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/merge-non-adjacent-by-selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/reduce-non-adjacent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/remove-duplicate-media-queries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/remove-duplicates.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/reorderable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/restructure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/selectors/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/source-maps/track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/stringifier/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/stringifier/one-time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/stringifier/simple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/stringifier/source-maps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/text/comments-processor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/text/escape-store.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/text/expressions-processor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/text/free-text-processor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/text/urls-processor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/tokenizer/extract-properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/tokenizer/extract-selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/tokenizer/tokenize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/urls/rebase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/urls/reduce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/urls/rewrite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/clone-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/compatibility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/input-source-map-tracker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/quote-scanner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/source-reader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/source-tracker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/lib/utils/split.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/node_modules/commander/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/node_modules/commander/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/node_modules/commander/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/node_modules/commander/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/node_modules/commander/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/clean-css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/example/center.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/example/meat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/test/break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/test/idleness.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/node_modules/wordwrap/test/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cliui/test/cliui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/commander/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/commander/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/commander/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/commander/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css-parse/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/css/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node_modules/ms/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node_modules/ms/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node_modules/ms/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node_modules/ms/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/node_modules/ms/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/src/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/src/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/debug/src/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/decamelize/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/decamelize/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/decamelize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/decamelize/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/engine.io.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/socket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transports/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transports/polling-jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transports/polling-xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transports/polling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/lib/transports/websocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/mime-types/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/lib/charset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/lib/encoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/lib/language.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/node_modules/negotiator/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/accepts/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/lib/base64id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/base64id/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/cookie/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/.coveralls.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node_modules/ms/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node_modules/ms/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node_modules/ms/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node_modules/ms/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/node_modules/ms/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/src/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/src/debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/debug/src/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/lib/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/lib/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/lib/utf8.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/LICENCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/after/test/after-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/arraybuffer.slice/test/slice-buffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/lib/base64-arraybuffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/base64-arraybuffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/.zuul.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/blob/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/node_modules/isarray/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/node_modules/has-binary2/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/engine.io-parser/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/binding.gyp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/action_after_build.stamp.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws.node.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Extensions.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Group.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/HTTPSocket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Hub.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Networking.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Node.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Socket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/WebSocket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/addon.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/Release/uws.node.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/Release/.deps/uws.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/action_after_build.target.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/binding.Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/config.gypi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build/uws.target.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/build_log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Asio.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Backend.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Epoll.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Epoll.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Extensions.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Group.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Group.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/HTTPSocket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/HTTPSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Hub.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Hub.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Libuv.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Networking.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Networking.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Node.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Node.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Socket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/Socket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/WebSocket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/WebSocketProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/addon.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/addon.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/http.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/src/uWS.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/uws/uws.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/BufferUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/Constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/ErrorCodes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/EventTarget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/Extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/PerMessageDeflate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/Receiver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/Sender.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/Validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/WebSocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/lib/WebSocketServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/safe-buffer/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/ultron/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/ultron/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/ultron/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/node_modules/ultron/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/node_modules/ws/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/engine.io/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/has-cors/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/indexof/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/is-buffer/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/isarray/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/isarray/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/isarray/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/isarray/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/.release.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/Readme_zh-cn.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/bin/jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/block-code.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/jade.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/compiler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/doctypes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/filters-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/inline-tags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/lexer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/block-comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/block.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/case.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/doctype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/literal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/mixin-block.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/mixin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/nodes/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/release.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/jade/runtime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/kind-of/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/kind-of/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/kind-of/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/kind-of/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/longest/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/longest/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/longest/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/longest/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/db.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mime-db/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/example/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/dash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/default_bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/dotted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/long.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/parse_modified.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/minimist/test/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/bin/cmd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/bin/usage.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/examples/pow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/chmod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/clobber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/mkdirp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/opts_fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/opts_fs_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/perm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/perm_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/race.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/rel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/return.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/return_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/umask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/mkdirp/test/umask_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ms/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ms/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ms/license.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ms/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ms/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/bool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/boolean_double.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/boolean_single.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/default_hash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/default_singles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/divide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/line_count.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/line_count_options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/line_count_wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/nonopt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/reflect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/short.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/usage-options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/example/xup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/test/_.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/test/_/argv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/test/_/bin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/optimist/test/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/node_modules/callsite/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/node_modules/better-assert/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parsejson/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/node_modules/callsite/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/node_modules/better-assert/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseqs/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/node_modules/callsite/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/node_modules/better-assert/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/parseuri/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/lib/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/lib/done.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/lib/es6-extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/lib/node-extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/polyfill-done.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/promise/polyfill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/lib/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/lib/namespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/lib/socket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/socket.io/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/LICENCE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/to-array/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/bin/extract-props.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/bin/uglifyjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/compress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/mozilla-ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/propmangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/sourcemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/dist/source-map.debug.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/dist/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/dist/source-map.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/array-set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/base64-vlq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/base64.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/binary-search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/mapping-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/quick-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/source-map-consumer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/source-map-generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/source-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/lib/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/node_modules/source-map/source-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/tools/domprops.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/tools/exports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/tools/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uglify-js/tools/props.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ultron/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ultron/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ultron/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ultron/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/binding.gyp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/action_after_build.stamp.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws.node.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Extensions.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Group.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/HTTPSocket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Hub.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Networking.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Node.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/Socket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/WebSocket.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/obj.target/uws/src/addon.o.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/Release/uws.node.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/Release/.deps/uws.d" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/action_after_build.target.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/binding.Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/config.gypi" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build/uws.target.mk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/build_log.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Asio.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Backend.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Epoll.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Epoll.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Extensions.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Group.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Group.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/HTTPSocket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/HTTPSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Hub.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Hub.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Libuv.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Networking.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Networking.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Node.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Node.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Socket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/Socket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/WebSocket.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/WebSocketProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/addon.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/addon.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/http.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/src/uWS.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/uws/uws.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/.bin/acorn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/.tern-project" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/acorn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/build-acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/generate-identifier-regex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/prepublish.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/update_authors.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/bin/without_eval" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/dist/acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/dist/acorn_csp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/dist/acorn_loose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/dist/walk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/identifier.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/acorn_loose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/expression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/parseutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/statement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/loose/tokenize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/lval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/parseutil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/state.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/statement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/tokencontext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/tokenize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/tokentype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/walk/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/node_modules/acorn/src/whitespace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/with/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/example/center.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/example/meat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/test/break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/test/idleness.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/wordwrap/test/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/BufferUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/Constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/ErrorCodes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/EventTarget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/Extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/PerMessageDeflate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/Receiver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/Sender.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/Validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/WebSocket.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/lib/WebSocketServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/safe-buffer/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/ultron/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/ultron/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/ultron/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/node_modules/ultron/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/ws/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/completion.sh.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/lib/completion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/lib/parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/lib/usage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/lib/validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yargs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yeast/.npminstall.done" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yeast/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yeast/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yeast/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/node_modules/yeast/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/文字直播/ff.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/文字直播/app.js" afterPath="$PROJECT_DIR$/文字直播/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -981,8 +23,20 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/文字直播/app.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="547">
+              <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ff.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/文字直播/ff.js">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -1063,11 +117,18 @@
         <option value="$PROJECT_DIR$/request/大三.css" />
         <option value="$PROJECT_DIR$/Nginx/hello.js" />
         <option value="$PROJECT_DIR$/文字直播/app.js" />
+        <option value="$PROJECT_DIR$/文字直播/ff.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -1080,10 +141,10 @@
     <handled-path value="$PROJECT_DIR$/文字直播/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="-11" />
-    <option name="width" value="1851" />
-    <option name="height" value="1092" />
+    <option name="x" value="71" />
+    <option name="y" value="24" />
+    <option name="width" value="1849" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1127,6 +188,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1155,8 +218,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1166,7 +227,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1300,12 +361,13 @@
       <workItem from="1500800086988" duration="7000" />
       <workItem from="1500800607846" duration="151000" />
       <workItem from="1500805832079" duration="599000" />
-      <workItem from="1500812597840" duration="1536000" />
+      <workItem from="1500812597840" duration="6050000" />
+      <workItem from="1500856389979" duration="1714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79267000" />
+    <option name="totallyTimeSpent" value="85495000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1317,7 +379,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="-11" width="1851" height="1092" extended-state="6" />
+    <frame x="71" y="24" width="1849" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21330401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1326,26 +389,16 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34061137" sideWeight="0.49807587" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35135135" sideWeight="0.49807587" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20524018" sideWeight="0.50192416" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3398693" sideWeight="0.49807587" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21330401" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286026" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="CSS-X-Fire" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897604" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969433" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1375,18 +428,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/文字直播/ff.js</url>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/parse_dns_ex.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -1710,11 +763,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/文字直播/app.js">
+    <entry file="file://$PROJECT_DIR$/文字直播/ff.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="42" lean-forward="false" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文字直播/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="50" column="3" lean-forward="false" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
